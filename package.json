@@ -1,0 +1,13 @@
+{
+  "name": "javascriptbasics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Classes.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch Spread.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Archana",
+  "license": "MIT"
+}
